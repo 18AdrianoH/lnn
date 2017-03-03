@@ -1,0 +1,1 @@
+# simple tester for our trashy neural net
